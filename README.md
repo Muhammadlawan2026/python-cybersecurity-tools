@@ -16,17 +16,17 @@ welcome to the **python Cybersecurity Tool** repository. thin suite is designed 
 
    ---
 
-   ## Getting sarted
+   ## Getting Satrted
 
-   clone the respository:
+   clone the rspository:
    '''bash
    git clone https://github.com/muhammadlawan2026/python-cybersecurity-tools.git
    cd python-cybersecurity-tools
 
    python banner_grabber.py
-   future roadmap
-   .[] integration into a unified CLI securitysuite
-   .[] Automated vulnerability & Audit PDF Reporting
-   .[] multi-threaded banner grabbing support
+   Future Roadmap
+   - [] integration into a unified CLI securitysuite
+   - [] Automated vulnerability & Audit PDF Reporting
+   - [] Multi-threaded banner grabbing support
 
    
